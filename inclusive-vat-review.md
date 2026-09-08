@@ -27,3 +27,7 @@ Use all three images in filename order as a standalone organic carousel. No webs
 
 ## Scope record
 Root task verifies current primary-source support and applicable rate before publication. Arithmetic independently checked: 1000×0.15=150; 1000+150=1150; 1150×15÷115=150; 1150×0.15=172.5. The latter is explicitly presented as the wrong extraction method for this example.
+
+## Verified source
+ZATCA Guideline for Amendments to the VAT Implementing Regulation, section 1.3, page 6: https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Amendments-to-the-Implementing-Regulation-of-(VAT).PDF
+The PDF was retrieved and its standard-rate applicability checked. The formula is a rearrangement of gross = base x 1.15, independently verified. CEO approval remains pending. Use inclusive-vat-caption.txt as the current publishing caption; the wording above is a drafting reference.

@@ -1,23 +1,9 @@
 # Mada Content Desk
 
-Campaign calendar, current creative assets and publishing guidance for Omar and Judy.
-
 Public desk: https://mada-content-desk.tokamradwan.chatgpt.site
 
-## What is included
-- Five bilingual article topics and three social campaigns.
-- Nine redesigned Zakat visuals; current VAT and invoice pairs.
-- Separate platform/language captions and download links.
-- Two-week proposed publishing sequence in Saudi time.
-- Source-aware posting, timing, reach and measurement guidance.
-- Historical versions retained separately.
+Six content topics, including the standalone VAT-inclusive carousel for the one pre-launch post. Current campaign visuals, Arabic captions, publishing lessons, replies, results and brief worksheets, and Google Ads training with cropped account screenshots.
 
-The schedule is editorial guidance, not automatic posting. CEO approval and social publication are not assumed. The invoice article still needs live publication verification. Paid campaigns remain on hold.
+All other campaigns remain on hold until the main website is ready. No automated posting, ad delivery or shared editing backend. CEO approval is not assumed. Old visual archives have been removed from the public desk; local history is retained separately.
 
-## Maintaining this repository
-The root files are the deployable static desk. Edit app.js/styles.css for the interface and data.js for content records. Replace an asset only after review and retain prior versions in archive. All paths are relative so the desk can also be hosted from a repository subpath.
-
-No package installation is required for this published static edition. Never add credentials, customer documents or private account exports.
-
-No team-editing backend is included. Changes become shared when a revised version is deployed. Public visitors cannot change the published calendar or approval records.
-
+The repository root is the static website. index.html loads data.js, app.js, academy.js and ads-guide.js. Changes become visible when redeployed. Never add credentials, private account exports or customer documents.
