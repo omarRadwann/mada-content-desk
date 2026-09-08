@@ -1,0 +1,11 @@
+order,campaign,channel,format,owner,scheduled_at,approval,dependency
+1,zakat-file-preparation,Instagram,6-image carousel,Unassigned,,Unrecorded,CEO review and final image/caption check
+2,zakat-file-preparation,Instagram,Story 1,Unassigned,,Unrecorded,Carousel review and crop check
+3,zakat-file-preparation,LinkedIn,Question framing text post,Unassigned,,Unrecorded,Use second post from campaign copy
+4,zakat-file-preparation,Instagram,Story 2,Unassigned,,Unrecorded,Review standalone value
+5,vat-reconciliation-checklist,Instagram,Current 2-image set,Unassigned,,Unrecorded,Review and verify profile or Story article link
+6,vat-reconciliation-checklist,LinkedIn,Adapted explanation and article,Unassigned,,Unrecorded,Review and verify destination
+7,pdf-vs-electronic-invoice,Instagram,Current 2-image set,Unassigned,,Unrecorded,Publish and verify article before article-led launch
+8,pdf-vs-electronic-invoice,LinkedIn,English or Arabic adapted post,Unassigned,,Unrecorded,Publish and verify article plus CEO review
+9,first-consultation,LinkedIn,Social adaptation not yet created,Unassigned,,Unrecorded,Draft social copy from article
+10,document-versions,Instagram,Social adaptation not yet created,Unassigned,,Unrecorded,Draft and produce social assets

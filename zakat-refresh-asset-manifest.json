@@ -1,0 +1,74 @@
+[
+  {
+    "file": "images/carousel-01.png",
+    "alt": "٣ ملفات باسم نهائي: سؤال عن النسخة التي ستُرسل للمراجعة الزكوية.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/carousel-02.png",
+    "alt": "مثال افتراضي يقارن ملف جميع الفروع والفترة الكاملة بملف فرع واحد وجزء من الفترة.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/carousel-03.png",
+    "alt": "مثال تسمية داخلي يوضح المنشأة والمحتوى والإصدار وحالة النسخة، مع تذكير بالفترة ومسؤول التنسيق.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/carousel-04.png",
+    "alt": "تحويل ملاحظة الأرقام مختلفة إلى سؤال عن سبب اختلاف البند بين الإصدارين، مع مسؤول وحالة متابعة.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/carousel-05.png",
+    "alt": "قائمة تحقق قبل الإرسال: النطاق والفترة، حالة النسخة، الأسئلة ومسؤولوها. التنظيم لا يحدد المعالجة الزكوية.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/carousel-06.png",
+    "alt": "خلاصة ثلاث خطوات: عرّف النطاق، حدّد النسخة، وثّق السؤال. احفظها واقرأ دليل مدى.",
+    "width": 1122,
+    "height": 1402,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/story-01.png",
+    "alt": "سؤال توضيحي يقارن اسماً مبهماً للملف بإصدار محدد وحالة ومسؤول، ويشرح لماذا الخيار الثاني أوضح.",
+    "width": 941,
+    "height": 1672,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/story-02.png",
+    "alt": "ثلاث خطوات قبل إرسال ملف المراجعة: تحديد النطاق وحالة النسخة وتجميع الأسئلة المفتوحة.",
+    "width": 941,
+    "height": 1672,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  },
+  {
+    "file": "images/article-cover.png",
+    "alt": "غلاف دليل تجهيز ملف المنشأة للمراجعة الزكوية، يوضح نطاقاً واضحاً ونسخة محددة وأسئلة موثقة.",
+    "width": 1672,
+    "height": 941,
+    "status": "ready-for-review",
+    "supersedes": "original-organic-pack"
+  }
+]
